@@ -105,7 +105,6 @@ It is not because python is slower than compiled languages. There is no heavy li
 
 ### Why Python for a desktop app?
 - I love python!
-- i am a beginner still learning other languages and frameworks.
 - i lack time lately and python development is kinda fast
 - it does the job.
 - after playing around with a douzend different GUI frameworks, flet finally looks and feels like what i was looking for. I had to build something with it. 
